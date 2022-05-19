@@ -16,7 +16,7 @@ I am a Full Stack Developer from Japan :jp:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
-### My Stats
+### Personal Github Stats
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyTommy&theme=radical&hide=css&layout=compact&langs_count=6" />
