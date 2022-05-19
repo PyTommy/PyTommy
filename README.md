@@ -3,7 +3,7 @@
 I am a Full Stack Developer from Japan :jp:.
 - I am working at a fast growing startup and contributing to frontend and backend for buillding web applications.
 - I want to work internationally :us: :fr: :uk: :de: :kr: :cn: :es: :it:
-- Loving Anime/Comic/Movie/Cooking!!
+- Loving anime, comics, movies and cooking!!
 
 #### Languages & Tools
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
