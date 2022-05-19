@@ -1,6 +1,6 @@
 I am a Full Stack Developer from Japan :jp:.
-- I am working at a fast growing startup and contributing to frontend and backend for buillding web applications.
-- I want to work internationally :us: :fr: :uk: :de: :kr: :cn: :es: :it:
+- Working at a fast growing startup and contributing to frontend and backend for buillding web applications.
+- Interested in international work environments :us: :fr: :uk: :de: :kr: :cn: :es: :it:
 - Loving anime, comics, movies and cooking!!
 
 ## Languages & Tools
